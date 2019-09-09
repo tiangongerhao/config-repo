@@ -14,4 +14,4 @@ spring:
     url: jdbc:mysql://127.0.0.1/springcloud_sell?characterEncoding=utf-8&useSSL=false
 girl:
   name: ladygaga
-  age: 33
+  age: 18
