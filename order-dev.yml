@@ -1,4 +1,4 @@
-env: dev
+env: test2
 eureka:
   client:
     service-url:
