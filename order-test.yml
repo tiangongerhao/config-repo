@@ -3,7 +3,6 @@ eureka:
   client:
     service-url:
       defaultZone: http://localhost:8761/eureka
-
 spring:
   application:
     name: order
@@ -17,6 +16,4 @@ spring:
     port: 5672
     username: test
     password: 123456
-girl:
-  name: ladygaga
-  age: 25
+
