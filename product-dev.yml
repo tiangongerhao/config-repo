@@ -14,6 +14,7 @@ spring:
   redis:
     host: 10.1.100.34
     port: 6379
+    password: xc123#
 eureka:
   client:
     service-url:
