@@ -1,0 +1,14 @@
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    password: 123456
+    url: jdbc:mysql://127.0.0.1/springcloud_sell?characterEncoding=utf-8&useSSL=false
+    username: root
+  redis:
+    host: 10.1.100.34
+    password: xc123#
+    port: 6379
